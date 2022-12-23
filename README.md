@@ -1,0 +1,2 @@
+# gray
+I am gray
